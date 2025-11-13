@@ -136,3 +136,5 @@ dist
 .pnp.*
 
 release
+
+.DS_Store
